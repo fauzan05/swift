@@ -6,3 +6,8 @@
 //
 
 import Foundation
+
+var makan = "haha"
+
+print(makan)
+
